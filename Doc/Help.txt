@@ -1,0 +1,6 @@
+step1:install live server:
+npm install -g live-server
+live-server -v
+
+ste2:Run uin liver server
+Run command to run index.html from project folder: live-server public
